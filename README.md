@@ -8,8 +8,7 @@
 - Measured How many people got the covid Dose as Sputnik, Covaxin and covidSheild.
 - Analysed and measured with First Dose of vaccine and second Dose of vaccine.
 - Created a Splendid Dashboard whith basic and needed information about the Whole Data set.
--  Link for the Dashbord 🔻 [https://public.tableau.com/app/profile/abhijeet.kr.gupta/viz/Covid-19Analyiss/Dashboard1](https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17056792881870/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
-
+-  Link for the Dashbord 🔻https://public.tableau.com/views/Covid-19inIndiaDashboardAnalysis_17056792881870/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 # What Went Well:
 
 Data Visualization: The dashboard successfully leveraged Tableau for data visualization, providing clear and interactive charts, maps, and reports.
@@ -38,7 +37,8 @@ Data Quality Matters: Realized the importance of clean and accurate data for rel
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This COVID-19 Tableau Dashboard project was a valuable opportunity to apply data visualization skills to real-world data, even with time constraints. It highlighted the significance of clean data and documentation for accurate analysis.
+# Screenshots
 <img width="960" alt="Screenshot 2024-01-19 211201" src="https://github.com/PotlachervuSrilatha/Covid-19_Dashboard_using_Tableau/assets/97737090/d5c7eadd-08b2-4da2-aad0-d0b695d7257d">
-<img width="960" alt="Screenshot 2024-01-19 211153" src="https://github.com/PotlachervuSrilatha/Covid-19_Dashboard_using_Tableau/assets/97737090/6764ccef-2657-417f-bbcd-5decea1493ed">
+
 <img width="960" alt="Screenshot 2024-01-19 211115" src="https://github.com/PotlachervuSrilatha/Covid-19_Dashboard_using_Tableau/assets/97737090/4d9ba21c-4262-4426-ae76-07d5924449e1">
 
